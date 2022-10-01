@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 👋 Hi, there! I’m **Anatoli**
+- 👀 I’m looking for a **frontend developer** job
+- 🌱 I’m currently learning Frontend: see my finished projects pinned in profile 
 <!--
 **BelarusWillBeFree/BelarusWillBeFree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
